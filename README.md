@@ -5,13 +5,19 @@ Swoop is an online booking platform for event venue rentals. Swoop services a tw
 
 ![alt tag](https://raw.github.com/tejak/swoop-demo/master/img/2.png)
 
+
+
 Users can either search for rental spaces or list their venues.
 
 ![alt tag](https://raw.github.com/tejak/swoop-demo/master/img/3.png)
 
+
+
 A renter can see a calendar and list view of upcoming rentals.
 
 ![alt tag](https://raw.github.com/tejak/swoop-demo/master/img/4.png)
+
+
 
 A venue owner can add venues and manage bookings on existing venues. They can also choose to book manually. 
 
